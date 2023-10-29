@@ -1,5 +1,5 @@
 # Code-Soft-Task-1
-Movie Rating Predictions Insights
+Project is based on movie Rating Predictions Insights
 1. Out of 10 the 6 ratings are mostly given to movies at a maximum of 1661 counts.
 2. Gangs of Wasseypur have taken a maximum duration, of 321 minutes. Action, comedy, and crime movie made in 2012 by Anurag Kashyap director.
 3. The highest voting goes to life of pi movie, 591417. Life of pi was released in 2012 by Ang lee director.
